@@ -48,11 +48,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,express,react,nodejs,py,flask,html,css,javascript,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,express,react,nodejs,py,html,css,javascript,bootstrap,tailwind" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,mysql,mongodb,sqlite,git,postman,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,flask,mysql,mongodb,sqlite,git,postman,figma,photoshop" />
   </a>
 </p>
 
