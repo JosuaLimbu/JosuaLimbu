@@ -34,7 +34,7 @@
 </p>
 <!-- About Section -->
 
- # About me
+ ## About me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -42,6 +42,19 @@
 - 🌱 Currently I am learning Laravel Framework and also Deep Learning technology
 - ⚡ Fun fact: I can be reliable and responsible given. I really like learning something interesting and new
 
+</p>
+
+ ## Certificate
+<p align="center">
+  <a href="https://drive.google.com/file/d/1F_71jkRfJijxtNcKNcpwx7Rqd247jwoi/view?usp=sharing" style="margin: 0 30px;">
+    <img src="https://www.svgrepo.com/show/452142/adobe.svg" width="60" height="60">
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/56c7333c-2550-44ae-8cef-8eb1dc85bbd9" style="margin: 0 30px;">
+    <img src="https://www.svgrepo.com/show/448223/gcp.svg" width="60" height="60">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/710c5fe22f7e" style="margin: 0 30px;">
+    <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="120" height="60">
+  </a>
 </p>
 
 ## Language and  Tools:
