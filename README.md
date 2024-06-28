@@ -39,7 +39,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-- 🌱 Currently I am learning Laravel Framework and also Deep Learning technology
+- 🌱 Currently I am learning Laravel Framework and also Deep Learning
 - ⚡ Fun fact: I can be reliable and responsible given. I really like learning something interesting and new
 
 </p>
