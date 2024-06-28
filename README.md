@@ -53,7 +53,7 @@
     <img src="https://www.svgrepo.com/show/448223/gcp.svg" width="60" height="60">
   </a>
   <a href="https://www.hackerrank.com/certificates/710c5fe22f7e" style="margin: 0 30px;">
-    <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="120" height="60">
+    <img src="https://five.co/wp-content/uploads/2023/08/800px-HackerRank_Icon-1000px.png" width="60" height="60">
   </a>
 </p>
 
