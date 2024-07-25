@@ -49,7 +49,7 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/56c7333c-2550-44ae-8cef-8eb1dc85bbd9" style="margin: 0 30px;">
     <img src="https://www.svgrepo.com/show/448223/gcp.svg" width="60" height="60">
   </a>
-  <a href="https://www.hackerrank.com/certificates/710c5fe22f7e" style="margin: 0 30px;">
+  <a href="https://www.hackerrank.com/profile/limbujosua23" style="margin: 0 30px;">
     <img src="https://five.co/wp-content/uploads/2023/08/800px-HackerRank_Icon-1000px.png" width="60" height="60">
   </a>
 </p>
