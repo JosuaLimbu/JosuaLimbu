@@ -37,7 +37,7 @@
  
 <p>
   
-&emsp;🌱 Currently I am learning Laravel Framework and also Deep Learning <br>
+&emsp;🌱 Currently I am learning Laravel Framework and also Deep Learning Technology<br>
 &emsp;⚡ Fun fact: I can be reliable and responsible given. I really like learning something interesting and new
 </p>
 
