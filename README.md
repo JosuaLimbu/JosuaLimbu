@@ -38,7 +38,9 @@
 <p>
   
 &emsp;🌱 Currently I am learning Laravel Framework and also Deep Learning Technology<br>
-&emsp;⚡ Fun fact: I can be reliable and responsible given. I really like learning something interesting and new
+&emsp;⚡ Fun fact: I can be reliable and responsible given. I really like learning something interesting and new<br>
+&emsp;📫 My Portfolio: [Portfolio](https://josualimbu.vercel.app/)
+
 </p>
 
 ### 📜 &nbsp;Certificate
