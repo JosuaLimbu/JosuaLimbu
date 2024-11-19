@@ -68,11 +68,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,express,react,py,cs,cpp,html,css,javascript,jquery,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,express,react,vite,py,cs,cpp,html,css,javascript,jquery,bootstrap,tailwind,tensorflow" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,opencv,mysql,mongodb,sqlite,git,postman,jenkins,nodejs,arduino,figma,ai,photoshop" />
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,flask,mysql,mongodb,sqlite,git,postman,jenkins,nodejs,arduino,figma,ai,photoshop" />
   </a>
 </p>
 
