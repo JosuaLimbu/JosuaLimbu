@@ -54,9 +54,12 @@
   <a href="https://www.hackerrank.com/profile/limbujosua23" style="margin: 0 30px;">
     <img src="https://five.co/wp-content/uploads/2023/08/800px-HackerRank_Icon-1000px.png" width="60" height="60">
   </a>
-  <a href="https://drive.google.com/file/d/1qeWkFzKuWvWO7NllYt7FDdvDGSra_2F8/view?usp=sharing" style="margin: 0 30px;">
-    <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/634024932c72fd4ca252a744/JHgGdWMh7AXSYxW8RNsnT.jpeg" width="60" height="60">
+  <a href="https://drive.google.com/file/d/1ZBweLUQ7SJojXriUT-o2srtHQz9AsGvC/view?usp=sharing" style="margin: 0 30px;">
+    <img src="https://raw.githubusercontent.com/joli23/gambar/refs/heads/main/aiplanet.png" width="60" height="60">
   </a>
+<!--   <a href="https://drive.google.com/file/d/1aI7Nw5IUe2wRPHEJiKiTNRnqrJD9X39V/view?usp=sharing" style="margin: 0 30px;">
+    <img src="https://github.com/joli23/gambar/blob/main/aiplanet.png?raw=true" width="60" height="60">
+  </a> -->
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
