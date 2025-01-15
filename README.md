@@ -78,7 +78,7 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,flask,mysql,mongodb,sqlite,git,postman,jenkins,nodejs,arduino,figma,ai,photoshop" />
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,flask,mysql,mongodb,sqlite,git,postman,jenkins,nodejs,arduino,figma,ai,photoshop" />
   </a>
 </p>
 
