@@ -73,12 +73,12 @@
 ### 🛠 &nbsp;Language and  Tools:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,express,react,vite,py,cs,cpp,html,css,javascript,jquery,bootstrap,tailwind,tensorflow" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,pytorch,flask,sklearn,laravel,express,react,vite,cs,cpp,html,css,javascript,php" width="50%">
   </a>
   <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,flask,mysql,mongodb,sqlite,git,postman,jenkins,nodejs,arduino,figma,ai,photoshop" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=jquery,bootstrap,tailwind,mysql,mongodb,sqlite,git,postman,jenkins,nodejs,arduino,anaconda,figma,ai,photoshop" />
   </a>
 </p>
 
