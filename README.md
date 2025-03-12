@@ -37,7 +37,7 @@
  
 <p>
   
-&emsp;🌱 Currently, I am focused on expanding my knowledge in Laravel Framework, Data Science, and Artificial Intelligence<br>
+&emsp;🌱 Currently, I am focused on expanding my knowledge in Artificial Intelligence, particularly in Machine Learning and Deep Learning<br>
 &emsp;⚡ Fun fact: I can be reliable and responsible given. I really like learning something interesting and new<br>
 &emsp;📫 My Portfolio: [Portfolio](https://josualimbu.vercel.app/)
 
