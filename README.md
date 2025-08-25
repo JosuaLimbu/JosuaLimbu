@@ -57,6 +57,9 @@
   <a href="https://drive.google.com/file/d/1ZBweLUQ7SJojXriUT-o2srtHQz9AsGvC/view?usp=sharing" style="margin: 0 30px;">
     <img src="https://raw.githubusercontent.com/joli23/gambar/refs/heads/main/aiplanet.png" width="60" height="60">
   </a>
+  <a href="https://drive.google.com/file/d/1ZnmkW-Zz22g1vmrJIsQR470O1Enk1iQ2/view?usp=sharing" style="margin: 0 30px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFH7s4M9mGesw/company-logo_200_200/company-logo_200_200/0/1682788922562/qarirlabscom_logo?e=2147483647&v=beta&t=Jup2xSbNHR_CI7kFgxqF-nPo1b8cvn8HY2q8uAxc7Fg" width="60" height="60">
+  </a>
 <!--   <a href="https://drive.google.com/file/d/1aI7Nw5IUe2wRPHEJiKiTNRnqrJD9X39V/view?usp=sharing" style="margin: 0 30px;">
     <img src="https://github.com/joli23/gambar/blob/main/aiplanet.png?raw=true" width="60" height="60">
   </a> -->
