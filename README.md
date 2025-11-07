@@ -13,7 +13,7 @@
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a Deep Learning, Machine Learning & Web Developer from <b>Indonesian</b> 」
+    「 I am a AI Engineer from <b>Indonesian</b> 」
   </samp>
 </p>
 
