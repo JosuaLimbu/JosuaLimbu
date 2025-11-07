@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 <p align="center">
-  <a href="https://github.com/JosuaLimbu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Deep%20Learning;Machine%20Learning;Love%20Learning%20New%20Things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/JosuaLimbu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning;Deep%20Learning;Web%20Development;Love%20Learning%20New%20Things&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Intro  -->
